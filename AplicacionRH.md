@@ -1,4 +1,4 @@
-Analisis de la Aplicacion de recursos Humanos
+#Analisis de la Aplicacion de recursos Humanos
 
 Para poyarnos en el curso vamos a desarrollar una aplicacion de apoyo a recursos humanos.
 
@@ -8,7 +8,7 @@ Al  pensar en los empleados debemos imaginar que necesitamos de cada empleado pr
 
 Y de la misma manera debemos pensar para las entidades que soportan o que nos permiten agregar datos al empleado.
 
-Empleado:
+#Empleado:
 - Nombres
 - Apellidos
 - Fecha de Nacimiento
@@ -42,23 +42,23 @@ enteros (1, 2, ...n) que representan una opcion.
 Para nuestro desarrollo vamos a desarrollar los difernetes datos adjuntos o necesarios oara el Empleado, a continuacion vamos a 
 realizar las diferentes estructuras:
 
-Tipo Documento de Identificacion ( Cédula, registro Civil, Cedula de extrajeria, Pasaporte, etc.)
+#Tipo Documento de Identificacion ( Cédula, registro Civil, Cedula de extrajeria, Pasaporte, etc.)
 - Codigo
 - Descripcion
 
-Ciudad (Ciudad de residencia del Empleado asociada a una direccion)
+#Ciudad (Ciudad de residencia del Empleado asociada a una direccion)
 - Codigo
 - Nombre Ciudad
 
-Genero (Masculino, Femenino, Otro)
+#Genero (Masculino, Femenino, Otro)
 - Codigo
 - Descripcion
 
-Estado Civil (Casado, Soltero, Viudo, etc.)
+#Estado Civil (Casado, Soltero, Viudo, etc.)
 - Codigo
 - Descripcion
 
-Cargo ( los definidos por la empresa)
+#Cargo ( los definidos por la empresa)
 - Codigo
 - Nombre Cargo
 - Descripcion del Cargo
@@ -66,7 +66,7 @@ Cargo ( los definidos por la empresa)
 - experiencia minima
 - Centro de Costo
 
-Centro de Costos (Definidos por la empresa)
+#Centro de Costos (Definidos por la empresa)
 - Codigo
 - Nombre
 - Descripcion
