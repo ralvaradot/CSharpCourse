@@ -1,4 +1,4 @@
-**Analisis de la Aplicacion de recursos Humanos
+*Analisis de la Aplicacion de recursos Humanos
 
 Para poyarnos en el curso vamos a desarrollar una aplicacion de apoyo a recursos humanos.
 
