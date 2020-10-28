@@ -46,19 +46,19 @@ realizar las diferentes estructuras:
 - Codigo
 - Descripcion
 
-<h4>Ciudad (Ciudad de residencia del Empleado asociada a una direccion)</h4>
+<h3>Ciudad (Ciudad de residencia del Empleado asociada a una direccion)</h3>
 - Codigo
 - Nombre Ciudad
 
-<h4>Genero (Masculino, Femenino, Otro)</h4>
+<h3>Genero (Masculino, Femenino, Otro)</h3>
 - Codigo
 - Descripcion
 
-<h4>Estado Civil (Casado, Soltero, Viudo, etc.)</h4>
+<h3>Estado Civil (Casado, Soltero, Viudo, etc.)</h3>
 - Codigo
 - Descripcion
 
-<h4>Cargo ( los definidos por la empresa)</h4>
+<h3>Cargo ( los definidos por la empresa)</h3>
 - Codigo
 - Nombre Cargo
 - Descripcion del Cargo
@@ -66,7 +66,7 @@ realizar las diferentes estructuras:
 - experiencia minima
 - Centro de Costo
 
-<h4>Centro de Costos (Definidos por la empresa)</h4>
+<h3>Centro de Costos (Definidos por la empresa)</h3>
 - Codigo
 - Nombre
 - Descripcion
