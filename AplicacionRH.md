@@ -8,7 +8,7 @@ Al  pensar en los empleados debemos imaginar que necesitamos de cada empleado pr
 
 Y de la misma manera debemos pensar para las entidades que soportan o que nos permiten agregar datos al empleado.
 
-#Empleado:
+<h4>Empleado:</h4>
 - Nombres
 - Apellidos
 - Fecha de Nacimiento
@@ -42,23 +42,23 @@ enteros (1, 2, ...n) que representan una opcion.
 Para nuestro desarrollo vamos a desarrollar los difernetes datos adjuntos o necesarios oara el Empleado, a continuacion vamos a 
 realizar las diferentes estructuras:
 
-#Tipo Documento de Identificacion ( Cédula, registro Civil, Cedula de extrajeria, Pasaporte, etc.)
+<h4>Tipo Documento de Identificacion ( Cédula, registro Civil, Cedula de extrajeria, Pasaporte, etc.)</h4>
 - Codigo
 - Descripcion
 
-#Ciudad (Ciudad de residencia del Empleado asociada a una direccion)
+<h4>Ciudad (Ciudad de residencia del Empleado asociada a una direccion)</h4>
 - Codigo
 - Nombre Ciudad
 
-#Genero (Masculino, Femenino, Otro)
+<h4>Genero (Masculino, Femenino, Otro)</h4>
 - Codigo
 - Descripcion
 
-#Estado Civil (Casado, Soltero, Viudo, etc.)
+<h4>Estado Civil (Casado, Soltero, Viudo, etc.)</h4>
 - Codigo
 - Descripcion
 
-#Cargo ( los definidos por la empresa)
+<h4>Cargo ( los definidos por la empresa)</h4>
 - Codigo
 - Nombre Cargo
 - Descripcion del Cargo
@@ -66,7 +66,7 @@ realizar las diferentes estructuras:
 - experiencia minima
 - Centro de Costo
 
-#Centro de Costos (Definidos por la empresa)
+<h4>Centro de Costos (Definidos por la empresa)</h4>
 - Codigo
 - Nombre
 - Descripcion
