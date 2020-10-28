@@ -1,6 +1,6 @@
 <h1>Analisis de la Aplicacion de recursos Humanos</h1>
 
-Para poyarnos en el curso vamos a desarrollar una aplicacion de apoyo a recursos humanos.
+Para apoyarnos en el curso vamos a desarrollar una aplicacion de apoyo a recursos humanos.
 
 Esta pequeña aplicacion permitira manejar los datos de los empleados dde la empresa.
 
