@@ -44,22 +44,27 @@ Para nuestro desarrollo vamos a desarrollar los difernetes datos adjuntos o nece
 realizar las diferentes estructuras:
 
 <h3>Tipo Documento de Identificacion ( Cédula, registro Civil, Cedula de extrajeria, Pasaporte, etc.)</h3>
+
 - Codigo
 - Descripcion
 
 <h3>Ciudad (Ciudad de residencia del Empleado asociada a una direccion)</h3>
+
 - Codigo
 - Nombre Ciudad
 
 <h3>Genero (Masculino, Femenino, Otro)</h3>
+
 - Codigo
 - Descripcion
 
 <h3>Estado Civil (Casado, Soltero, Viudo, etc.)</h3>
+
 - Codigo
 - Descripcion
 
 <h3>Cargo ( los definidos por la empresa)</h3>
+
 - Codigo
 - Nombre Cargo
 - Descripcion del Cargo
@@ -68,6 +73,7 @@ realizar las diferentes estructuras:
 - Centro de Costo
 
 <h3>Centro de Costos (Definidos por la empresa)</h3>
+
 - Codigo
 - Nombre
 - Descripcion
