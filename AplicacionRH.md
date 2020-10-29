@@ -2,9 +2,9 @@
 
 Para apoyarnos en el curso vamos a desarrollar una aplicacion de apoyo a recursos humanos.
 
-Esta pequeña aplicacion permitira manejar los datos de los empleados dde la empresa.
+Esta pequeña aplicacion permitira manejar los datos de los empleados de la empresa.
 
-Al  pensar en los empleados debemos imaginar que necesitamos de cada empleado pra poder plasmarlo en un programa de computador.
+Al  pensar en los empleados debemos imaginar que necesitamos de cada empleado para poder plasmarlo en un programa de computador.
 
 Y de la misma manera debemos pensar para las entidades que soportan o que nos permiten agregar datos al empleado.
 
