@@ -9,6 +9,7 @@ Al  pensar en los empleados debemos imaginar que necesitamos de cada empleado pa
 Y de la misma manera debemos pensar para las entidades que soportan o que nos permiten agregar datos al empleado.
 
 <h3>Empleado:</h3>
+
 - Nombres
 - Apellidos
 - Fecha de Nacimiento
